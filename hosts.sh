@@ -21,12 +21,12 @@
 10.0.0.252  windows.5210125.xyz     windows
 
 # cloudflare
-101.93.184.223            ipv4.5210125.xyz            ipv4
-101.93.184.223            ipv6.5210125.xyz            ipv6
-10.0.0.213                local.5210125.xyz           local
-143.20.161.101            losangeles.5210125.xyz      losangeles
-143.20.161.101            mailcow.5210125.xyz         mailcow
-143.20.161.101            rustdesk.5210125.xyz        rustdesk
+# 101.93.184.223          ipv4.5210125.xyz            ipv4
+# 101.93.184.223          ipv6.5210125.xyz            ipv6
+# 10.0.0.213              local.5210125.xyz           local
+# 143.20.161.101          losangeles.5210125.xyz      losangeles
+# 143.20.161.101          mailcow.5210125.xyz         mailcow
+# 143.20.161.101          rustdesk.5210125.xyz        rustdesk
 # 143.20.161.101          *.5210125.xyz               *
 # 10.0.0.213              *.5210125.xyz               *
 # ipv4.5210125.xyz        *.stun.5210125.xyz          *.stun
