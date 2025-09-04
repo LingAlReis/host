@@ -20,23 +20,6 @@
 10.0.0.251  macos.5210125.xyz       macos
 10.0.0.252  windows.5210125.xyz     windows
 
-# cloudflare
-# 101.93.184.223          ipv4.5210125.xyz            ipv4
-# 101.93.184.223          ipv6.5210125.xyz            ipv6
-# 10.0.0.213              local.5210125.xyz           local
-# 143.20.161.101          losangeles.5210125.xyz      losangeles
-# 143.20.161.101          mailcow.5210125.xyz         mailcow
-# 143.20.161.101          rustdesk.5210125.xyz        rustdesk
-# 143.20.161.101          *.5210125.xyz               *
-# 10.0.0.213              *.5210125.xyz               *
-# ipv4.5210125.xyz        *.stun.5210125.xyz          *.stun
-# mailcow.5210125.xyz     autoconfig.5210125.xyz      autoconfig
-# mailcow.5210125.xyz     autodiscover.5210125.xyz    autodiscover
-# losangeles.5210125.xyz  anylink.5210125.xyz         anylink
-# losangeles.5210125.xyz  nezha.5210125.xyz           nezha
-# losangeles.5210125.xyz  netlify.5210125.xyz         netlify
-# losangeles.5210125.xyz  www.5210125.xyz             www
-
 # The following lines are desirable for IPv6 capable hosts
 ::1     ip6-localhost ip6-loopback
 
