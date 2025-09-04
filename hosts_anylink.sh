@@ -1,8 +1,8 @@
-# anylink
-# 10.0.0.212     anylink.5210125.xyz anylink
+# losangelesfrpc
+# losangeles.5210125.xyz anylink.5210125.xyz anylink
 
 # sakurafrpc
-# 122.246.0.254  anylink.5210125.xyz anylink
+# frp-sea.com            anylink.5210125.xyz anylink
 
-# losangelesfrpc
-# 143.20.161.101 anylink.5210125.xyz anylink
+# chmlfrpc
+# cd-1.frp.one           anylink.5210125.xyz anylink
