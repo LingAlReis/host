@@ -20,6 +20,9 @@
 10.0.0.251  macos.5210125.xyz       macos
 10.0.0.252  windows.5210125.xyz     windows
 
+10.0.0.111  anylink.vip.5210125.xyz   anylink.vip
+10.0.0.112  wireguard.vip.5210125.xyz wireguard.vip
+
 # The following lines are desirable for IPv6 capable hosts
 ::1     ip6-localhost ip6-loopback
 
