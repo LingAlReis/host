@@ -26,6 +26,7 @@
 
 10.0.0.111  anylink.vip.5210125.xyz   anylink.vip
 10.0.0.112  wireguard.vip.5210125.xyz wireguard.vip
+10.0.0.113  easytier.vip.5210125.xyz  easytier.vip
 
 # The following lines are desirable for IPv6 capable hosts
 ::1     ip6-localhost ip6-loopback
