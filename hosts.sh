@@ -28,6 +28,7 @@
 10.0.0.112  wireguard.vip.5210125.xyz          wireguard.vip
 10.0.0.113  easytier.vip.5210125.xyz           easytier.vip
 10.0.0.114  nginxproxymanager.vip.5210125.xyz  nginxproxymanager.vip
+10.0.0.115  sunpanel.vip.5210125.xyz           sunpanel.vip
 
 # The following lines are desirable for IPv6 capable hosts
 ::1     ip6-localhost ip6-loopback
