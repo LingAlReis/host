@@ -14,6 +14,7 @@
 10.0.0.104       nginxproxymanager.vip.5210125.xyz  nginxproxymanager.vip
 10.0.0.105       sunpanel.vip.5210125.xyz           sunpanel.vip
 10.0.0.201       adguardhome.vip.5210125.xyz        adguardhome.vip
+10.0.0.211       frps.vip.5210125.xyz               frps.vip
 
 # proxmoxve      10.0.0.20X - 10.0.0.22X
 # #######################################################################
