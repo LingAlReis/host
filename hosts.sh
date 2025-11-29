@@ -14,7 +14,6 @@
 10.0.0.104       nginxproxymanager.vip.5210125.xyz  nginxproxymanager.vip
 10.0.0.105       sunpanel.vip.5210125.xyz           sunpanel.vip
 10.0.0.201       adguardhome.vip.5210125.xyz        adguardhome.vip
-10.0.0.211       frps.vip.5210125.xyz               frps.vip
 
 # proxmoxve      10.0.0.20X - 10.0.0.22X
 # #######################################################################
@@ -36,13 +35,10 @@
 # proxmoxveslave 10.0.0.23X - 10.0.0.24X
 # #######################################################################
 10.0.0.230       proxmoxveslave.5210125.xyz         proxmoxveslave
-10.0.0.231       kdesktop.5210125.xyz               kdesktop
 
 # other          10.0.0.25X - 10.0.0.25X
 # #######################################################################
 10.0.0.250       onekvm.5210125.xyz                 onekvm
-10.0.0.251       macos.5210125.xyz                  macos
-10.0.0.252       windows.5210125.xyz                windows
 
 # The following lines are desirable for IPv6 capable hosts
 # #######################################################################
