@@ -22,6 +22,7 @@
 10.0.0.205       windows.5210125.xyz                windows
 10.0.0.206       macos.5210125.xyz                  macos
 10.0.0.211       database.5210125.xyz               database
+10.0.0.212       development.5210125.xyz            development
 10.0.0.215       windowslave.5210125.xyz            windowslave
 
 # other          10.0.0.25X - 10.0.0.25X
